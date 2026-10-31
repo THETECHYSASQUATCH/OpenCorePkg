@@ -4,6 +4,7 @@ OpenCore Changelog
 - Made pressed buttons darker instead of highlighting them in OpenCanopy, thx @ilikesn0w
 - Added minor configuration sample improvements, thx @ilikesn0w
 - Fixed not detecting CD/DVD media type in boot picker leading to incorrect icon selection, thx @ilikesn0w
+- Fixed legacy IOHIDSystem kext linkage handling when injecting into prelinked kernel collections
 
 #### v1.0.8
 - Fixed macrecovery utility on Windows, thx @pzhlkj6612
